@@ -1,0 +1,14 @@
+{
+    "name": "villeristimaki/bedrock-autoloader",
+    "description": "Standalone version of the Bedrock Autoloader for mu-plugins.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wille Ristimäki",
+            "email": "ville.ristimaki@nordsoftware.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
