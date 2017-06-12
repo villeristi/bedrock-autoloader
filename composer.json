@@ -1,5 +1,5 @@
 {
-    "name": "villeristimaki/bedrock-autoloader",
+    "name": "villeristi/bedrock-autoloader",
     "description": "Standalone version of the Bedrock Autoloader for mu-plugins.",
     "type": "library",
     "license": "MIT",
